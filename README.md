@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @virus2207
-- 👀 I’m interested in software development. 
-- 🌱 I’m currently learning Information Technology (Computer Science)
+- 👋 Hi, I’m @virus2207- 
+- 👀 I’m interested in software development and networking security.  
+- 🌱 I’m currently studying Information Technology (Computer Science)
 - 💞️ I’m looking to collaborate on development projects where i can practice my skills and learn from others
 - 📫 You can contact me via Discord @virus#2207
 
